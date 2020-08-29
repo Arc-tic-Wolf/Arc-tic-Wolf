@@ -26,11 +26,7 @@ I am a geeky narcissus type of person. I love watching tv-shows and playing game
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-5849BE?style=flat-square&logo=ue4&logoColor=white" />  
 </p>
 
-## &#x270d; Tree of expertise
-* Languages
-  * Java **[First]**
-  * Javascript
-  * Python **[Current Main]**
+## &#x270d; Tree of expertise 
 * Development
   * Web Development
     * Frontend
