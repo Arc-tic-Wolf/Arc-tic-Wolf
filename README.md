@@ -1,6 +1,13 @@
 ### 👋 Hi there, nice to meet you. 
 I am a geeky narcissus type of person. I love watching tv-shows and playing games. Currently I am studying Computer Science with a knack for exploring tech stuffs. Hope you keep me in your prayers. I read Al-Quran and do cycling as well. I used to participate at art and spelling bee competitions during my school days.  
 
+## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/ArcticWolf-coder/ArcticWolf-coder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcticWolf-coder&layout=compact&theme=calm" />
+</a>
+<a href="https://github.com/ArcticWolf-coder/ArcticWolf-coder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArcticWolf-coder&theme=cobalt&show_icons=true&count_private=true" alt=" GitHub Stats" />
+</a>
 
 ## 🔧 Technologies & Tools
 <p>
@@ -16,8 +23,7 @@ I am a geeky narcissus type of person. I love watching tv-shows and playing game
   <img alt="Bash" src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
   <img alt="Java" src="https://img.shields.io/badge/Java-blue.svg?style=flat-square" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-blue.svg?style=flat-square" />
-  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-5849BE?style=flat-square&logo=ue4&logoColor=white" />
-  
+  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-5849BE?style=flat-square&logo=ue4&logoColor=white" />  
 </p>
 
 ## &#x270d; Tree of expertise
@@ -42,18 +48,7 @@ I am a geeky narcissus type of person. I love watching tv-shows and playing game
   * Deep Neural Networks
   * Convolutional Neural Networks **[Learning]**
   
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/ArcticWolf-coder/ArcticWolf-coder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcticWolf-coder&layout=compact&theme=calm" />
-</a>
-<a href="https://github.com/ArcticWolf-coder/ArcticWolf-coder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArcticWolf-coder&theme=cobalt&show_icons=true&count_private=true" alt=" GitHub Stats" />
-</a>
-
-
 ## 🔭🌱👯 Experience
-
 Ever since 2018, I have been learning to code and getting better at it day by day. I started off my journey with Java. From what I have seen, I love programming and solving problems is my bread and butter. Also I have a bit of experience participating in programming contests and then I dove into web development. Right now, I am focusing on deep learning and am already quite fond of this technology.
 ### Reach me here :  <a href="https://www.linkedin.com/in/ArcticWolf-coder" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" />
 <!--
