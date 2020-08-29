@@ -3,7 +3,7 @@ I am a geeky narcissus type of person. I love watching tv-shows and playing game
 
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/ArcticWolf-coder/ArcticWolf-coder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcticWolf-coder&layout=compact&theme=calm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcticWolf-coder&layout=compact&hide=jupyter%20notebook&theme=calm" />
 </a>
 <a href="https://github.com/ArcticWolf-coder/ArcticWolf-coder">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArcticWolf-coder&theme=cobalt&show_icons=true&count_private=true" alt=" GitHub Stats" />
