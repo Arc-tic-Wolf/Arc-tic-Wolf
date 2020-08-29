@@ -54,7 +54,7 @@ I am a geeky narcissus type of person. I love watching tv-shows and playing game
 
 ## 🔭🌱👯 Experience
 
-Over the last 2 years, I have been learning to code and getting better at it day by day. I started off my journey with Java. From what I have seen, I love programming and solving problems is my bread and butter. Also I have a bit of experience participating in programming contests and then I dove into web development. Right now, I am focusing on deep learning and am already quite fond of this technology.
+Ever since 2018, I have been learning to code and getting better at it day by day. I started off my journey with Java. From what I have seen, I love programming and solving problems is my bread and butter. Also I have a bit of experience participating in programming contests and then I dove into web development. Right now, I am focusing on deep learning and am already quite fond of this technology.
 ### Reach me here :  <a href="https://www.linkedin.com/in/ArcticWolf-coder" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" />
 <!--
 **ArcticWolf-coder/ArcticWolf-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
