@@ -21,7 +21,10 @@ I am a geeky narcissus type of person. I love watching tv-shows and playing game
 </p>
 
 ## &#x270d; Tree of expertise
-
+* Languages
+  * Java **[First]**
+  * Javascript
+  * Python **[Current Main]**
 * Development
   * Web Development
     * Frontend
@@ -35,7 +38,7 @@ I am a geeky narcissus type of person. I love watching tv-shows and playing game
   * Pandas
   * Scikit-Learn
 * Deep Learning
-  * Neural Networks
+  * Shallow Neural Networks
   * Deep Neural Networks
   * Convolutional Neural Networks **[Learning]**
   
