@@ -45,10 +45,10 @@ I am a geeky narcissus type of person. I love watching tv-shows and playing game
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/ArcticWolf-coder/ArcticWolf-coder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcticWolf-coder&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcticWolf-coder&layout=compact&theme=calm" />
 </a>
 <a href="https://github.com/ArcticWolf-coder/ArcticWolf-coder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArcticWolf-coder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt=" GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArcticWolf-coder&theme=cobalt&show_icons=true&count_private=true" alt=" GitHub Stats" />
 </a>
 
 
