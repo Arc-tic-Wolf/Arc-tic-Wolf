@@ -2,11 +2,11 @@
 I am a geeky narcissus type of person. I love watching tv-shows and playing games. Currently I am studying Computer Science with a knack for exploring tech stuffs. Hope you keep me in your prayers. I read Al-Quran and do cycling as well. I used to participate at art and spelling bee competitions during my school days.  
 
 ## &#x1f4c8; My GitHub Stats
-<a href="https://github.com/ArcticWolf-coder/ArcticWolf-coder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcticWolf-coder&layout=compact&hide=jupyter%20notebook&theme=calm" />
+<a href="https://github.com/Arc-tic-Wolf/Arc-tic-Wolf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arc-tic-Wolf&layout=compact&hide=jupyter%20notebook&theme=calm" />
 </a>
-<a href="https://github.com/ArcticWolf-coder/ArcticWolf-coder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArcticWolf-coder&theme=cobalt&show_icons=true&count_private=true" alt=" GitHub Stats" />
+<a href="https://github.com/Arc-tic-Wolf/Arc-tic-Wolf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arc-tic-Wolf&theme=cobalt&show_icons=true&count_private=true" alt=" GitHub Stats" />
 </a>
 
 ## 🔧 Technologies & Tools
@@ -46,9 +46,9 @@ I am a geeky narcissus type of person. I love watching tv-shows and playing game
   
 ## 🔭🌱👯 Experience
 Ever since 2018, I have been learning to code and getting better at it day by day. I started off my journey with Java. From what I have seen, I love programming and solving problems is my bread and butter. Also I have a bit of experience participating in programming contests and then I dove into web development. Right now, I am focusing on deep learning and am already quite fond of this technology.
-### Reach me here :  <a href="https://www.linkedin.com/in/ArcticWolf-coder" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" />
+### Reach me here :  <a href="https://www.linkedin.com/in/Arc-tic-Wolf" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" />
 <!--
-**ArcticWolf-coder/ArcticWolf-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Arc-tic-Wolf/Arc-tic-Wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
